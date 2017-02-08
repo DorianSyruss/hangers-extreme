@@ -1,6 +1,6 @@
 
 # VjesalaExtreme
-Jednostavna igra pogađanja rečenica
+Jednostavna KONZOLNA igra pogađanja rečenica
 
 /*********** PRAVILA **************/
 
