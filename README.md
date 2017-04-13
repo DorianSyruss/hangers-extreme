@@ -1,5 +1,8 @@
 
-# VjesalaExtreme
+# VjesalaExtreme ( HangersExtreme )
+
+Simple game of guessing sentences with calculated number of tries according to the sentence size and user input where one player enters the sentence and the other one guesses. Very fun :),  just copy the code from the program.cs and compile it in your C# IDE, run and the console will open to play.
+
 Jednostavna KONZOLNA igra pogađanja rečenica
 
 /*********** PRAVILA **************/
